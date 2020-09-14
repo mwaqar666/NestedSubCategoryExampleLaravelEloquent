@@ -4,7 +4,7 @@ This simple project demonstrates the way of handling multiple nested subcategori
 
 - Clone the project
 - Run `composer install` **( Creates `vendor` directory )**
-- Run `cp .env.example .env` **( Creates *.env* file )**
+- Run `cp .env.example .env` **( Creates `.env` file )**
 - Create a database and set its credentials in `.env`
 - Run `php artisan migrate` **( This will create tables and automatically populates them )**
 - Navigate to root URL
