@@ -7,4 +7,4 @@ This simple project demonstrates the way of handling multiple nested subcategori
 - Run `cp .env.example .env` **( Creates `.env` file )**
 - Create a database and set its credentials in `.env`
 - Run `php artisan migrate` **( This will create tables and automatically populates them )**
-- Navigate to root URL
+- Navigate to `/categories` URL
